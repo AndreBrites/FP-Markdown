@@ -1,6 +1,6 @@
 # FP-Markdown
-Nome do estudante \
-`André Pereira` 
+André João Brites Pereira \
+`2190731` 
 
 ## Linguagens de programação conhecidas:
 * C
